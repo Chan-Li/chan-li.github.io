@@ -80,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Chan Li"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Guangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=1-vchYMAAAAJ&hl=zh-TW"
+  email            : "lich89@mail2.sysu.edu.cn"
+  researchgate     :  "https://www.researchgate.net/profile/Chan-Li-9"
   uri              :
   bitbucket        :
   codepen          :
