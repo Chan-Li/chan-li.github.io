@@ -14,8 +14,8 @@ our model learns the credit assignment leading to the decision, and predicts an 
 macroscopic behavior of deep learning through the lens of distinct roles of synaptic weights.'
 date: 2020-10-06
 venue: 'Physical Review Letters'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.178301)'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.178301'
+citation: 'Chan Li,Haiping Huang. (2020). &quot;Learning credit assignment.&quot; <i>Physical Review Letters</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
