@@ -15,7 +15,7 @@ macroscopic behavior of deep learning through the lens of distinct roles of syna
 date: 2020-10-06
 venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.178301'
-citation: 'Chan Li,Haiping Huang. (2020). &quot;Learning credit assignment.&quot; <i>Physical Review Letters</i>. 1(1).'
+citation: 'Chan Li,Haiping Huang. (2020). &quot;Learning credit assignment.&quot; <i>Physical Review Letters</i>.'
 ---
 
 [Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.178301)
