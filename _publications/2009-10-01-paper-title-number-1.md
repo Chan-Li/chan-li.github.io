@@ -17,8 +17,6 @@ venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.178301'
 citation: 'Chan Li,Haiping Huang. (2020). &quot;Learning credit assignment.&quot; <i>Physical Review Letters</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here]([http://academicpages.github.io/files/paper1.pdf](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.178301))
+[Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.178301)
 
-Recommended citation: Chan Li, Haiping Huang. (2020). "Learning credit assignment." <i>Physical Review Letters</i>. 1(1).
