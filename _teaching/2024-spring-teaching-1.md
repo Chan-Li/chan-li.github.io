@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience in Electricity and Magnetism, 2024"
 collection: teaching
 type: "Undergraduate course: Electricity and Magnetism"
 permalink: /teaching/2024-winter-teaching-1
