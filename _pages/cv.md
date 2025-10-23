@@ -11,9 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**[University of California, San Diego](https://physics.ucsd.edu/)** · *La Jolla, USA*  
+Ph.D. student in *Physics*; GPA: **3.96/4.0**  
+*Sep 2023 – now*
+
+**[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/)** · *Guangzhou, China*  
+Master of Science in *Theoretical Physics*; GPA: **89/100 (3.55/4.0)**  
+*Aug 2020 – June 2023*
+
+**[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/)** · *Guangzhou, China*  
+Bachelor of Science in *Optoelectronic Information Science and Engineering*; GPA: **88/100 (3.78/4.0)**  
+*Aug 2016 – June 2020*
 
 Work experience
 ======
