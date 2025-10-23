@@ -25,24 +25,58 @@ Bachelor of Science in *Optoelectronic Information Science and Engineering*; GPA
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Winter 2024: Teaching Assista
+  * University of California, San Diego
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Dr. Jessica Arlett
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2024 - now: Graduate Student Researcher
+  * University of California, San Diego
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Professor. Nigel Goldenfeld
+
+Research experience
+======
+**[University of California, San Diego](https://physics.ucsd.edu/)** · *La Jolla, USA*  
+*Graduate Researcher under [Prof. Nigel Goldenfeld](https://guava.physics.ucsd.edu/~nigel/)*  
+*Sep 2023 – present*  
+I study the statistical-physics foundations of generalization in modern machine learning.  
+My current work develops a **dynamical mean-field theory** for the *double-descent transition* in neural networks,  
+revealing how **ergodicity breaking** and **FDT violation** emerge during overparameterized learning.  
+This project establishes a **scaling-theory description** of generalization as a critical phenomenon  
+and has been **submitted for publication**.
+
+---
+
+**[Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/)** · *Guangzhou, China*  
+*Member of Researcher in PMI Lab; Advisor: [Prof. Haiping Huang](https://www.labxing.com/files/lab_data/368-1651116724-TsDPO0az.pdf)*  
+
+- **Project 1. Learning credit assignment** *(Aug 2019 – Oct 2021)*  
+  To explain hierarchical credit assignment, we propose a mean-field learning model.  
+  The results have been published in *Phys. Rev. Lett.* **125, 178301 (2020)** and *Phys. Rev. E* **107, 024307 (2023)**.
+
+- **Project 2. Emergence of hierarchical modes from deep learning** *(Aug 2021 – Oct 2022)*  
+  We propose a mode decomposition learning that can interpret the weight matrices as a hierarchy of latent modes.  
+  The results have been published in *Phys. Rev. Research* **5, L022011 (2023)**.
+
+- **Project 3. Statistical mechanics of continual learning** *(Aug 2020 – Oct 2022)*  
+  We propose a theory-grounded method for the real-world multi-task learning.  
+  The results have been published in *Phys. Rev. E* **108, 014309 (2023)**.
+
+- **Project 4. Meta predictive learning model of languages in neural circuits** *(Apr 2023 – Apr 2024)*  
+  We propose a meta predictive coding framework for language tasks, to study the role of predictive coding and  
+  the associated credit assignment in language processing.  
+  The results have been published in *Phys. Rev. E* **109, 044309 (2024)**.
+
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Languages:** Chinese native speaker, fluent in English (IELTS: 7.5).
+
+- **Software and programming languages:** Proficient in Python, PyTorch; experienced in C, C++, Linux, and LaTeX; also familiar with basic Matlab and Mathematica programming.
+
+- **Theoretical tools:** Experienced in *cavity method*, *replica method*,  *field theory*, *group theory*, *dynamical mean-field theory* and *random matrix theory*.
 
 Publications
 ======
@@ -61,7 +95,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
