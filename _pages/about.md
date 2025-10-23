@@ -19,7 +19,7 @@ I am currently working on:
 (3) scaling laws and critical phenomena in overparameterized models, and  
 (4) theoretical connections between statistical mechanics and generalization in deep learning.
 
-Before joining UC San Diego, I conducted research at [**Sun Yat-sen University**](https://www.sysu.edu.cn/sysuen/) (Guangzhou, China) in the PMI Lab under the supervision of [**Prof. Haiping Huang**](https://www.labxing.com/files/lab_data/368-1651116724-TsDPO0az.pdf).  
+Before joining UC San Diego, I conducted research at [**Sun Yat-sen University**](https://www.sysu.edu.cn/sysuen/) (Guangzhou, China) in the [PMI Lab](https://www.labxing.com/hphuang2018) under the supervision of [**Prof. Haiping Huang**](https://www.labxing.com/files/lab_data/368-1651116724-TsDPO0az.pdf).  
 My earlier research focused on developing statistical-physics-based theories of learning, covering hierarchical credit assignment, emergent representations, continual learning, and predictive coding. These works collectively proposed a unified mean-field and ensemble framework for understanding how biological and artificial neural systems assign, transfer, and preserve information across multiple levels of representation.  
 
 I received my **M.S. in Theoretical Physics** (2020–2023) and **B.S. in Optoelectronic Information Science and Engineering** (2016–2020) from [**Sun Yat-sen University**](https://www.sysu.edu.cn/sysuen/), Guangzhou, China.
