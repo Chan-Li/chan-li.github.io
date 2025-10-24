@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I am a third-year Ph.D. student in the **Department of Physics** at the [**University of California, San Diego**](https://physics.ucsd.edu/), advised by [**Prof. Nigel Goldenfeld**](https://guava.physics.ucsd.edu/~nigel/). I will advance to candidacy in December.  
+I am a third-year Ph.D. student in the **Department of Physics** at the [**University of California, San Diego**](https://physics.ucsd.edu/) (UCSD), advised by [**Prof. Nigel Goldenfeld**](https://guava.physics.ucsd.edu/~nigel/). I will advance to candidacy in December.  
 My research lies at the intersection of **statistical physics and machine learning**, aiming to apply physics principles to understand the black box of deep learning and design physics-inspired learning algorithms.
 
 I am currently working on:  
