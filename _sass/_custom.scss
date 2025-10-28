@@ -1,0 +1,87 @@
+/* =====================================================
+   Chan Li custom overrides for academic-pages
+   Improve readability, margins, math layout, and spacing
+   ===================================================== */
+
+/* ---- Overall page layout ---- */
+.page-content,
+.post-content {
+  max-width: 42rem;        /* narrower reading width for better focus */
+  margin: 0 auto;          /* center content */
+  padding-left: 2rem;
+  padding-right: 2rem;
+  line-height: 1.75;
+  font-size: 1.05rem;
+}
+
+/* ---- Section headings ---- */
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.8rem;
+  line-height: 1.3;
+  font-weight: 600;
+}
+
+/* ---- Paragraph spacing ---- */
+.post-content p {
+  margin-bottom: 1.1em;
+}
+
+/* ---- Lists ---- */
+.post-content ul,
+.post-content ol {
+  margin-left: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+/* ---- MathJax containers ---- */
+mjx-container {
+  display: block;
+  margin: 1.2rem auto;
+  text-align: center;
+  overflow-x: auto;
+  padding: 0.2rem 0;
+}
+
+/* ---- Tables ---- */
+.post-content table {
+  margin: 1.2rem auto;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+.post-content th,
+.post-content td {
+  border: 1px solid #ddd;
+  padding: 0.5rem 0.75rem;
+}
+
+/* ---- Code blocks ---- */
+pre, code {
+  font-size: 0.95rem;
+  background-color: #f8f8f8;
+  border-radius: 6px;
+}
+pre {
+  padding: 1rem;
+  overflow-x: auto;
+  margin: 1.2rem 0;
+}
+
+/* ---- Quotes ---- */
+blockquote {
+  border-left: 4px solid #bbb;
+  padding-left: 1rem;
+  color: #555;
+  font-style: italic;
+  margin: 1rem 0;
+}
+
+/* ---- Optional: subtle shadow for main content ---- */
+.page-content {
+  background-color: #fff;
+  box-shadow: 0 0 8px rgba(0,0,0,0.04);
+  border-radius: 6px;
+}
