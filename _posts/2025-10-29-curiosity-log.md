@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "🧭 Chan’s Curiosity Log — October 29, 2025"
 date: 2025-10-29
 categories: [theory, machine-learning, physics]
