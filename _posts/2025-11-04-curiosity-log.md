@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "🧭 Chan’s Curiosity Log — November 4, 2025"
 date: 2025-11-04
 categories: [theory, machine-learning, neuroscience, physics]
