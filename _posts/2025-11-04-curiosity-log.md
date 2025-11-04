@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🧭 Chan’s Curiosity Log — November 4, 2025"
+title: "🧭 Chan’s Curiosity Log — Nov 4, 2025"
 date: 2025-11-04
 categories: [theory, machine-learning, neuroscience, physics]
 tags: [renormalization-group, scaling-laws, universality, bifurcation, sleep-dynamics, curiosity-log]
