@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🧭 Chan’s Curiosity Log — November 5, 2025"
+title: "🧭 Chan’s Curiosity Log — Nov 5, 2025"
 date: 2025-11-05
 categories: [theory, machine-learning, neuroscience, physics]
 tags: [hopfield-network, redundancy, information-theory, spiking-networks, spatial-learning, curiosity-log]
@@ -11,7 +11,7 @@ permalink: /blog/2025-11-05-curiosity-log/
 
 ---
 
-## 🧩 Paper 1 (Worth Reading in Detail): *Redundancy Maximization as a Principle of Associative Memory Learning*  
+## 🧩 Paper 1: *Redundancy Maximization as a Principle of Associative Memory Learning*  
 📄 [arXiv:2511.02584 (2025)](https://arxiv.org/pdf/2511.02584)
 
 ### 1.1 Background  
