@@ -9,6 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+
+---
+
+## Curriculum Vitae
+
+[📄 PDF version link](/files/CL_cv.pdf)
+
+---
+
+### Personal Information
+**Visa Status:** F-1  
+**Private email:** [chan.li.physics@gmail.com](mailto:chan.li.physics@gmail.com)  
+**Phone:** +1-858-370-9516
+
+---
+
+### Present Position
+**Ph.D. Student in Theoretical Physics**, University of California San Diego *(2023–present)*  
+Scheduled to advance to **Ph.D. candidacy in December 2025**.  
+
+---
+
+### Work Details
+**Address:** Room 7258, Urey Hall, University of California San Diego,  
+Department of Physics, 9500 Gilman Drive, La Jolla, CA 92093, USA  
+**Professional email:** [chanli@ucsd.edu](mailto:chanli@ucsd.edu)
+
+
 Education
 ======
 **[University of California, San Diego](https://physics.ucsd.edu/)** · *La Jolla, USA*  
