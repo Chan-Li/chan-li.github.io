@@ -43,7 +43,7 @@ Department of Physics, 9500 Gilman Drive, La Jolla, CA 92093, USA
 **University of California San Diego (UCSD)** — *La Jolla, USA*  
 **Ph.D. in Physics** *(anticipated June 2028)*  
 Advancement to candidacy scheduled **December 2025**; **GPA: 3.96/4.0**  
-*September 2022 – Present*  
+*September 2023 – Present*  
 
 **Sun Yat-sen University** — *Guangzhou, China*  
 **M.Sc. in Theoretical Physics**, **GPA: 89/100 (3.55/4.0)**  
