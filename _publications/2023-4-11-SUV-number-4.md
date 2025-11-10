@@ -9,5 +9,5 @@ paperurl: 'https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.
 citation: 'Chan Li,Haiping Huang. (2023). &quot;Emergence of hierarchical modes from deep learning.&quot; <i>Physical Review Research</i>.'
 ---
 
-[Download paper here](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.L022011)
+[Download paper here](https://arxiv.org/abs/2208.09859)
 
