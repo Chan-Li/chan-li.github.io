@@ -149,7 +149,6 @@ Native in Chinese; fluent in English *(IELTS 7.5)*.
 ---
 
 ##  Publications *(peer-reviewed, comparable to top-tier AI/ML conferences)*
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
