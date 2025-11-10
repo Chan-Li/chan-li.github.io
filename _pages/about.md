@@ -30,9 +30,9 @@ My work has been published in *Physical Review Letters* (the top place in physic
 
 ---
 
-## 📄 [Link to PDF version of my CV](/files/CL_cv.pdf)
+## [Link to PDF version of my CV](/files/CL_cv.pdf)
 
-## 📬 Contact
+## Contact
 
 Feel free to reach out to me at [chan.li.physics@gmail.com](mailto:chan.li.physics@gmail.com) (personal email)  
 or [chanli@ucsd.edu](mailto:chanli@ucsd.edu) (professional email).
