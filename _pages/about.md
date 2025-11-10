@@ -30,7 +30,7 @@ My work has been published in *Physical Review Letters* (the top place in physic
 
 ---
 
-## 📄 [Link to PDF version of my CV](/files/CL_CV.pdf)
+## 📄 [Link to PDF version of my CV](/files/CL_cv.pdf)
 
 ## 📬 Contact
 
