@@ -87,7 +87,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor. Nigel Goldenfeld
 
-## 🧠 Research Experience
+## Research Experience
 
 ### **University of California San Diego (UCSD)** — *La Jolla, USA*  
 *Ph.D. Researcher in Physics* | Advisor: **Prof. Nigel Goldenfeld**
