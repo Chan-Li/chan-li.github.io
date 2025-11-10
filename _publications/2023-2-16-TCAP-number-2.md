@@ -9,4 +9,4 @@ paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024307'
 citation: 'Wenxuan Zou1,*, Chan Li1,*, and Haiping Huang. (2023). &quot;Ensemble perspective for understanding temporal credit assignment.&quot; <i>Physical Review E</i>.'
 ---
 
-[Download paper here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.024307)
+[Download paper here](https://arxiv.org/abs/2102.03740)
