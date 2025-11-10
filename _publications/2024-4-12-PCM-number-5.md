@@ -9,4 +9,4 @@ paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.044309'
 citation: 'Chan Li1 and Haiping Huang. (2024). &quot;Meta predictive learning model of languages in neural circuits.&quot; <i>Physical Review E</i>.'
 ---
 
-[Download paper here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.109.044309)
+[Download paper here](https://arxiv.org/abs/2309.04106)
