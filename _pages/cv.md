@@ -75,7 +75,7 @@ Advancement to candidacy scheduled **December 2025**; **GPA: 3.96/4.0**
 
 ---
 
-Work Experience
+## Work Experience
 ======
 
 **Graduate Student Researcher** — *University of California San Diego*  
@@ -153,13 +153,13 @@ Native in Chinese; fluent in English *(IELTS 7.5)*.
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks and Posters
+## Talks and Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
