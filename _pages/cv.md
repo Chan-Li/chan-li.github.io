@@ -75,17 +75,21 @@ Advancement to candidacy scheduled **December 2025**; **GPA: 3.96/4.0**
 
 ---
 
-Work experience
+Work Experience
 ======
-* Winter 2024: Teaching Assistant
-  * University of California, San Diego
-  * Duties included: Tagging issues
-  * Supervisor: Dr. Jessica Arlett
 
-* Spring 2024 - now: Graduate Student Researcher
-  * University of California, San Diego
-  * Duties included: Merging pull requests
-  * Supervisor: Professor. Nigel Goldenfeld
+**Graduate Student Researcher** — *University of California San Diego*  
+*Spring 2024 – Present*  
+Supervisor: **Prof. Nigel Goldenfeld**  
+- Conduct research on statistical physics and machine learning, focusing on learning dynamics, generalization, and scaling behavior in neural networks.  
+- Develop and maintain computational models and simulation pipelines to analyze large-scale learning systems.  
+
+**Teaching Assistant** — *University of California San Diego*  
+*Winter 2024*  
+Supervisor: **Dr. Jessica Arlett**  
+- Assisted in teaching undergraduate physics courses, including leading discussion sections and grading assignments.  
+- Supported students through office hours and contributed to developing problem sets and instructional materials.
+
 
 ## Research Experience
 
