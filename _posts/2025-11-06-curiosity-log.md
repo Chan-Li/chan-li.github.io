@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🧭 Chan’s Curiosity Log — November 6, 2025"
+title: "🧭 Chan’s Curiosity Log — Nov 6, 2025"
 date: 2025-11-06
 categories: [theory, neuroscience, machine-learning, physics]
 tags: [motor-control, predictive-coding, transformer, signal-propagation, dmft, curiosity-log]
