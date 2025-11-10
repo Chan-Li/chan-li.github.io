@@ -9,5 +9,5 @@ paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.014309'
 citation: 'Chan Li1,*, Zhenye Huang2,*, Wenxuan Zou1,*, and Haiping Huang. (2023). &quot;Statistical mechanics of continual learning: Variational principle and mean-field potential.&quot; <i>Physical Review E</i>.'
 ---
 
-[Download paper here](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.108.014309)
+[Download paper here](https://arxiv.org/abs/2212.02846)
 
