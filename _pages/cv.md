@@ -127,7 +127,7 @@ Supervisor: **Dr. Jessica Arlett**
 
 ---
 
-## 🧩 Professional Skills
+## Professional Skills
 
 **Programming and Software:**  
 Proficient in **Python** for machine learning, scientific computing, and data analysis;  
