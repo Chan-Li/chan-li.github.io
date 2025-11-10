@@ -38,7 +38,7 @@ Department of Physics, 9500 Gilman Drive, La Jolla, CA 92093, USA
 
 ---
 
-## 🎓 Education
+## Education
 
 **University of California San Diego (UCSD)** — *La Jolla, USA*  
 **Ph.D. in Physics** *(anticipated June 2028)*  
@@ -55,7 +55,7 @@ Advancement to candidacy scheduled **December 2025**; **GPA: 3.96/4.0**
 
 ---
 
-## 🏅 Selected Honors and Awards
+## Selected Honors and Awards
 
 - **Physics Excellence Award**, UC San Diego (Top 10%) — *Sep 2023*  
 - **Chinese National Scholarship**, Ministry of Education, P.R. China (Top 1%) — *Oct 2019; Oct 2021*  
@@ -65,7 +65,7 @@ Advancement to candidacy scheduled **December 2025**; **GPA: 3.96/4.0**
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Statistical and probabilistic approaches to understanding learning dynamics and generalization in neural networks.  
 - Bayesian and statistical modeling for interpretable and reliable machine learning systems.  
