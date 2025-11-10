@@ -25,3 +25,17 @@ My earlier research focused on developing statistical-physics-based theories of 
 I received my **M.S. in Theoretical Physics** (2020–2023) and **B.S. in Optoelectronic Information Science and Engineering** (2016–2020) from [**Sun Yat-sen University**](https://www.sysu.edu.cn/sysuen/), Guangzhou, China.
 
 My work has been published in *Physical Review Letters* (the top place in physics to announce rapidly novel exciting results), *Physical Review E*, and *Physical Review Research*.
+
+> *I am currently exploring Summer 2026 research internship opportunities in machine learning and data science, aiming to apply my background in theoretical physics and statistical modeling to develop physics-inspired approaches for analyzing and improving modern machine learning systems.*
+
+---
+
+## 📄 [Link to PDF version of my CV](files/CL_CV.pdf)
+
+## 📬 Contact
+
+Feel free to reach out to me at [chan.li.physics@gmail.com](mailto:chan.li.physics@gmail.com) (personal email)  
+or [chanli@ucsd.edu](mailto:chanli@ucsd.edu) (professional email).
+
+
+
