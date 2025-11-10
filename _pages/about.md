@@ -14,10 +14,10 @@ I am a third-year Ph.D. student in the **Department of Physics** at the [**Unive
 My research lies at the intersection of **statistical physics and machine learning**, aiming to apply physics principles to understand the black box of deep learning and design physics-inspired learning algorithms.
 
 I am currently working on:  
-(1) dynamical mean-field theory of learning dynamics and double descent,  
-(2) ergodicity breaking and fluctuation–dissipation theorem (FDT) violation in neural networks,  
-(3) scaling laws and critical phenomena in overparameterized models, and  
-(4) theoretical connections between statistical mechanics and generalization in deep learning.
+(1) applying statistical and physics-inspired modeling to analyze and optimize learning dynamics in neural networks,
+(2) studying stability and non-equilibrium behavior to improve the robustness and efficiency of large-scale learning systems,
+(3) uncovering universal scaling laws and phase-transition–like behaviors that govern model performance, and
+(4) leveraging principles from statistical physics to develop interpretable, reliable, and scalable machine learning methods.
 
 Before joining UC San Diego, I conducted research at [**Sun Yat-sen University**](https://www.sysu.edu.cn/sysuen/) (Guangzhou, China) in the [PMI Lab](https://www.labxing.com/hphuang2018) under the supervision of [**Prof. Haiping Huang**](https://www.labxing.com/files/lab_data/368-1651116724-TsDPO0az.pdf).  
 My earlier research focused on developing statistical-physics-based theories of learning, covering hierarchical credit assignment, emergent representations, continual learning, and predictive coding. These works collectively proposed a unified mean-field and ensemble framework for understanding how biological and artificial neural systems assign, transfer, and preserve information across multiple levels of representation.  
