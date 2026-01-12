@@ -7,12 +7,12 @@ main:
 
   - title: "Talks and Posters"
     url: /talks/    
-
+  - title: "Blog Posts"
+    url: /year-archive/
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  
     
 
     
