@@ -2,13 +2,12 @@
 main:
   - title: "Research"
     url: /publications/
-  - title: "CV"
-    url: /cv/
-
   - title: "Talks and Posters"
     url: /talks/    
   - title: "Blog Posts"
     url: /year-archive/
+  - title: "CV"
+    url: /cv/
   - title: "Teaching"
     url: /teaching/    
         
